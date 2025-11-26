@@ -31,6 +31,10 @@ public class GhostMovement : MonoBehaviour
 
             agent.destination = new Vector3(x,0.0f,z);
         }
+        else if()
+        {
+            
+        }
     }
 
     void OnTriggerEnter(Collider other)
